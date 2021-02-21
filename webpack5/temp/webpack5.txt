@@ -1,0 +1,8 @@
+webpack5生成的文件也是一个闭包，但是是一个箭头函数。
+webpack5将原来在webpack4闭包的参数modules去掉了，直接挂载在__webpack_modules__变量中，原来是在
+__webpack__require.m中挂载的。
+
+webpack5支持TopLevelAwait
+
+webpack-dev-server 这个包
+
