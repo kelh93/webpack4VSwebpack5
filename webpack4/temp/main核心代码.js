@@ -41,7 +41,7 @@
     __webpack_require__.r(__webpack_exports__);
     var _add__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__('./src/add.js');
     var _tool__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__('./src/tool.js');
-    console.log('京城一灯');
+    console.log('webpack4');
     var c = Object(_add__WEBPACK_IMPORTED_MODULE_0__['default'])(1, 2);
     console.log('1+2等于', c);
     var str = 'apple';
